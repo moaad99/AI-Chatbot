@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/chatbot-widget.js",
+    "index.html": "/index.html",
+    "chatbot-widget.js.map": "/chatbot-widget.js.map"
+  },
+  "entrypoints": [
+    "chatbot-widget.js"
+  ]
+}
