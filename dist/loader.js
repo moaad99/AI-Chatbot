@@ -20,7 +20,7 @@
     // Load the chatbot script
     function loadChatbot() {
       console.log('Loading chatbot script');
-      loadScript('https://cdn.jsdelivr.net/gh/moaad99/AI-Chatbot@v1.0.4/dist/chatbot-widget.js', function() {
+      loadScript('https://cdn.jsdelivr.net/gh/moaad99/AI-Chatbot@v1.0.5/dist/chatbot-widget.js', function() {
         console.log('Chatbot script loaded');
   
         if (window.ChatbotWidget && typeof window.ChatbotWidget === 'function') {
